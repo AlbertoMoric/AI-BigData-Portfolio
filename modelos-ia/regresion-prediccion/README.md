@@ -17,7 +17,7 @@ El conjunto de datos contiene información sobre características estructurales 
 - Seaborn
 - Scikit-learn
 
-  ## Flujo de trabajo
+## Flujo de trabajo
 
 1. Exploratory Data Analysis (EDA)
 2. Data Cleaning
@@ -26,12 +26,12 @@ El conjunto de datos contiene información sobre características estructurales 
 5. Evaluación de métricas
 6. Visualización de resultados
 
-   ## Modelos implementados
+## Modelos implementados
 
 - Linear Regression
 - Random Forest Regressor
 
-  ## Resultados
+## Resultados
 
 | Modelo | MAE | RMSE |
 |---|---|---|
